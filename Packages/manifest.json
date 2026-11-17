@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.annulusgames.u-pools": "https://github.com/AnnulusGames/uPools.git?path=/Assets/uPools",
+    "com.bazyleu.unistate": "https://github.com/bazyleu/UniState.git?path=Assets/UniState",
+    "com.cysharp.r3": "https://github.com/PavelFoxx/R3.git?path=src/R3.Unity/Assets/R3.Unity",
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.demigiant.dotween": "https://github.com/PavelFoxx/DOTween.git",
+    "com.svermeulen.extenject": "https://github.com/Mathijs-Bakker/Extenject.git?path=UnityProject/Assets/Plugins/Zenject/Source#9.3.1",
     "com.unity.ai.navigation": "2.0.10",
     "com.unity.collab-proxy": "2.11.3",
     "com.unity.ide.rider": "3.0.39",

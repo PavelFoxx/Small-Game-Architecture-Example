@@ -1,5 +1,56 @@
 {
   "dependencies": {
+    "com.annulusgames.u-pools": {
+      "version": "https://github.com/AnnulusGames/uPools.git?path=/Assets/uPools",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e11ce9c12c65c12f3bc35ae2ef7cacde6826e503"
+    },
+    "com.bazyleu.unistate": {
+      "version": "https://github.com/bazyleu/UniState.git?path=Assets/UniState",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "cd7788b4bdc7049315bbf3957da70ffe9f1cfffb"
+    },
+    "com.cysharp.r3": {
+      "version": "https://github.com/PavelFoxx/R3.git?path=src/R3.Unity/Assets/R3.Unity",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.modules.imgui": "1.0.0"
+      },
+      "hash": "8cd209b6347d8cfd695dc6b9909cd2cd147d708b"
+    },
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a77a1b4a89824fb6df293099de3060daf2a432c1"
+    },
+    "com.demigiant.dotween": {
+      "version": "https://github.com/PavelFoxx/DOTween.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.physics2d": "1.0.0",
+        "com.unity.modules.uielements": "1.0.0",
+        "com.unity.ugui": "1.0.0"
+      },
+      "hash": "c3421cf0feae48fd9f7e66e3f74558649ad4a8ca"
+    },
+    "com.svermeulen.extenject": {
+      "version": "https://github.com/Mathijs-Bakker/Extenject.git?path=UnityProject/Assets/Plugins/Zenject/Source#9.3.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8495d61cebe4175b358370a3599b32ae976d6de6"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.10",
       "depth": 0,

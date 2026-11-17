@@ -1,0 +1,8 @@
+{
+	"name": "ZooWorld.Presentation",
+	"references": [
+		"GUID:3bf55b7267c3e98418e2fdfecb0366cd",
+		"GUID:64291dee23808ee4186e0718f2d87124"
+	],
+	"noEngineReferences": false
+}

@@ -1,0 +1,7 @@
+{
+	"name": "ZooWorld.Application",
+	"references": [
+		"GUID:64291dee23808ee4186e0718f2d87124"
+	],
+	"noEngineReferences": true
+}
